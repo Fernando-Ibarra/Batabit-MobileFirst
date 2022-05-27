@@ -3,9 +3,5 @@ Creación de una página web partiendo de mobile first.
 
 Muestra de la página web y análisis en lighthouse.
 <div>
-<p style = 'text-align:center;'>
-<iframe width="600" height = "420"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
-</div>
-</p>
+  
+[![Alt text](https://img.youtube.com/vi/configuroweb/0.jpg)](https://youtu.be/1TDR4-h7N3kv=configuroweb)
